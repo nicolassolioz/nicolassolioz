@@ -37,9 +37,15 @@ I'm a **Full Stack Developer** with a passion for creating elegant solutions and
 
 ---
 
-## 🚀 What Drives Me
+## 🚀 How I Work
 
 I love working with **JetBrains IDE** and getting creative with **Cascade/ChatGPT** for AI assistance. I'm always keen to explore new ideas, innovate, and collaborate with teams who are as passionate about technology as I am.
+
+---
+
+## 😇 What Drives Me
+
+Meeting people, implementing concrete ideas, working on something meaningful with coworkers I care about. 
 
 ---
 
